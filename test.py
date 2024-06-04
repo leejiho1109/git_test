@@ -1,7 +1,7 @@
 import streamlit as st
 
 col1,col2 = st.columns([2,3])
-# 공간을 2:3 으로 분할하여 col1과 col2라는 이름을 가진 컬럼을 생성합니다.  
+# 공간을 2:3 으로 분할하여 col1과 col2aaaaaaaaaaaaaaaaaaa라는 이름을 가진 컬럼을 생성합니다.  
 
 with col1 :
   # column 1 에 담을 내용
